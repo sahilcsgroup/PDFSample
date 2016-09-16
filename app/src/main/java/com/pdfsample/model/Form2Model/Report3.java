@@ -8,10 +8,10 @@ public class Report3 {
 
     @SerializedName("types_of_systems")
     @Expose
-    private String typesOfSystems = "";
+    private String typesOfSystems = "1,2,3,4";
     @SerializedName("system_notes")
     @Expose
-    private String systemNotes = "";
+    private String systemNotes = "sdfsdfsdf";
 
     /**
      * @return The typesOfSystems

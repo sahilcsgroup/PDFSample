@@ -8,13 +8,13 @@ public class Report2 {
 
     @SerializedName("authorised_sign_name")
     @Expose
-    private String authorisedSignName = "";
+    private String authorisedSignName = "dfgdfg";
     @SerializedName("reportdate2")
     @Expose
-    private String reportdate2 = "";
+    private String reportdate2 = "dfgdfg";
     @SerializedName("authorised_by")
     @Expose
-    private String authorisedBy = "";
+    private String authorisedBy = "1,2";
     @SerializedName("authorised_sign")
     @Expose
     private String authorisedSign = "";

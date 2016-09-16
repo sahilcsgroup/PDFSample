@@ -8,25 +8,25 @@ public class Report1 {
 
     @SerializedName("job_no")
     @Expose
-    private String jobNo = "";
+    private String jobNo = "324";
     @SerializedName("visit_no")
     @Expose
-    private String visitNo = "";
+    private String visitNo = "234234";
     @SerializedName("reportdate1")
     @Expose
-    private String reportdate1 = "";
+    private String reportdate1 = "vcbcvb";
     @SerializedName("arrived")
     @Expose
-    private String arrived = "";
+    private String arrived = "cvb";
     @SerializedName("client_name")
     @Expose
-    private String clientName = "";
+    private String clientName = "cvbcv";
     @SerializedName("service_report_no")
     @Expose
-    private String serviceReportNo = "";
+    private String serviceReportNo = "cvbcvb";
     @SerializedName("notes1")
     @Expose
-    private String notes1 = "";
+    private String notes1 = "cvbcvb";
 
     /**
      * @return The jobNo
